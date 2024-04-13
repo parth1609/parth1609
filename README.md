@@ -35,6 +35,15 @@ src="https://img.shields.io/twitter/follow/@PatilPa70248397?logo=twitter&style=f
 
 <a href="https://github.com/parth1609" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1609&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=@dingdingwall&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 </ul>
