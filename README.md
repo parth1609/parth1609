@@ -30,15 +30,21 @@ python Developer
 
 
 
+<p align="center">
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/parth1609"><img src="https://github-readme-stats.vercel.app/api?username=parth1609&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="parth1609's GitHub stats" /></a>
-
+<hr/>
 <a href="http://www.github.com/parth1609"><img src="https://github-readme-streak-stats.herokuapp.com/?user=parth1609&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/parth1609"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=parth1609&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<hr/>
 
 <a href="https://github.com/parth1609" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1609&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<hr/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parth1609&theme=dark&show_icons=true&include_all_commits=true" alt="parth1609"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parth1609&&theme=github-compact" alt="My GitHub activity graph"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -46,6 +52,7 @@ python Developer
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=@dingdingwall&icon=0&color=0)](https://visitcount.itsvg.in)
